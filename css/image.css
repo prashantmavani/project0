@@ -1,0 +1,13 @@
+img{
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 20px;
+    border-right: 30px;
+}
+
+.image-div p{
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+$color: red;
+
+%message1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul{
+    li{
+        @extend %message1;
+        color: $color;
+
+    }
+}
