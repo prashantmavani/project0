@@ -1,0 +1,16 @@
+#div-p > p{
+    color: goldenrod;
+    padding-left: 10%;
+    text-align: center;
+    display: none;
+
+
+}
+
+.colored{
+    color: goldenrod;
+}
+
+.background{
+    background-color: gray;
+}

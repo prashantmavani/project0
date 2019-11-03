@@ -7,7 +7,9 @@ img{
     border-right: 30px;
 }
 
-.image-div p{
-    color: red;
-    text-align: center;
+@media (max-width: 750px){
+    img{
+        display: none;
+    }
 }
+

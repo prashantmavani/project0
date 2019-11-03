@@ -1,10 +1,10 @@
-ul li {
+.list-class ul li {
   font-family: sans-serif;
   font-size: 18px;
   font-weight: bold;
 }
 
-ul li {
+.list-class ul li {
   color: red;
 }
 
